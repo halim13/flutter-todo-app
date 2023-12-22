@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Thanks To
 
-This project is a starting point for a Flutter application.
+[Pradip Debnath](https://www.youtube.com/watch?v=K4P5DZ9TRns)
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="446" alt="image" src="https://github.com/halim13/flutter-todo-app/assets/11336853/cb7bd457-6189-4830-bc9e-f0d892fa4f78">
